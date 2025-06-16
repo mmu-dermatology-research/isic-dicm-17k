@@ -4,3 +4,17 @@ ISIC-DICM-17K (ISIC Dermoscopic Images and Clinical Metadata 17K) is a curated a
 
 ---
 Coming Soon
+
+---
+If you use the ISIC-DICM-17K dataset, please consider citing our paper:
+
+```
+@InProceedings{Ahammed_2025_CVPR,
+    author    = {Ahammed, Sakib and Cui, Xia and Lu, Wenqi and Yap, Moi Hoon},
+    title     = {Skin Lesion Classification Using Dermoscopic Images and Clinical Metadata: Insights from Multimodal Models},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops},
+    month     = {June},
+    year      = {2025},
+    pages     = {222-230}
+}
+```

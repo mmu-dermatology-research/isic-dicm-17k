@@ -5,6 +5,10 @@ ISIC-DICM-17K (ISIC Dermoscopic Images and Clinical Metadata 17K) is a curated a
 ---
 Coming Soon
 
+**Dataset Download Link: https://api.isic-archive.com/collections/469/**
+
+DOI: https://doi.org/10.1109/CVPRW67362.2025.00027
+
 ---
 If you use the ISIC-DICM-17K dataset, please consider citing our paper:
 

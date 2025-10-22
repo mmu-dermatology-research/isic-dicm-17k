@@ -1,6 +1,6 @@
 # Skin Lesion Classification Using Dermoscopic Images and Clinical Metadata: Insights from Multimodal Models
 
-**ISIC-DICM-17K** (**ISIC** **D**ermoscopic **I**mages and **C**linical **M**etadata **17K**) is a curated and balanced dataset designed to support research in skin lesion classification using both dermoscopic images and clinical metadata. The dataset is derived from the [International Skin Imaging Collaboration (ISIC) Archive Gallery](https://gallery.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery) and has been carefully filtered and organized to enable multimodal skin lesion analysis research.
+**ISIC-DICM-17K** (**ISIC** **D**ermoscopic **I**mages and **C**linical **M**etadata **17K**) is a curated and balanced dataset designed to support research in skin lesion classification using both dermoscopic images and clinical metadata. The dataset is derived from the [International Skin Imaging Collaboration (ISIC) Archive Gallery](https://gallery.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery) for multimodal skin lesion analysis research.
 
 ## Dataset Overview
 - **Total Samples:** 17,060

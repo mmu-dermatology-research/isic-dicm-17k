@@ -1,16 +1,26 @@
 # Skin Lesion Classification Using Dermoscopic Images and Clinical Metadata: Insights from Multimodal Models
 
-ISIC-DICM-17K (ISIC Dermoscopic Images and Clinical Metadata 17K) is a curated and balanced dataset derived from the International Skin Imaging Collaboration (ISIC) Archive Gallery. It comprises 17,060 dermoscopic images and clinical metadata (8,530 melanoma and 8,530 non-melanoma classes).
+**ISIC-DICM-17K** (**ISIC** **D**ermoscopic **I**mages and **C**linical **M**etadata **17K**) is a curated and balanced dataset designed to support research in skin lesion classification using both dermoscopic images and clinical metadata. The dataset is derived from the [International Skin Imaging Collaboration (ISIC) Archive Gallery](https://gallery.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery) and has been carefully filtered and organized to enable multimodal skin lesion analysis research.
 
----
-Coming Soon
+## Dataset Overview
+- **Total Samples:** 17,060
+- **Classes:**
+    - **Melanoma:** 8,530 images
+    - **Non-Melanoma:** 8,530 images
+- **Modalities:** dermoscopic images and clinical metadata _(e.g., age, sex, anatomical site)_
 
-**Download Link: https://api.isic-archive.com/collections/469/**
+This dataset has been used in [our study](https://www.openaccess.thecvf.com/content/CVPR2025W/MULA2025/papers/Ahammed_Skin_Lesion_Classification_Using_Dermoscopic_Images_and_Clinical_Metadata_Insights_CVPRW_2025_paper.pdf) to explore the effectiveness of multimodal learning for skin lesion classification.
 
-DOI: https://doi.org/10.1109/CVPRW67362.2025.00027
+## Download
 
----
-If you use the ISIC-DICM-17K dataset, please consider citing our paper:
+You can access and download the dataset here: [ISIC-DICM-17K Download Link](https://api.isic-archive.com/collections/469/)
+
+## Citation
+
+If you use the ISIC-DICM-17K dataset or any part of this work in a research project, please consider citing [our paper](https://www.openaccess.thecvf.com/content/CVPR2025W/MULA2025/html/Ahammed_Skin_Lesion_Classification_Using_Dermoscopic_Images_and_Clinical_Metadata_Insights_CVPRW_2025_paper.html):
+
+> **Skin Lesion Classification Using Dermoscopic Images and Clinical Metadata: Insights from Multimodal Models**  
+> DOI: [10.1109/CVPRW67362.2025.00027](https://doi.org/10.1109/CVPRW67362.2025.00027)
 
 ```BibTex
 @InProceedings{Ahammed_2025_CVPR,

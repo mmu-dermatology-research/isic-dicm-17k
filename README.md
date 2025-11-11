@@ -13,7 +13,9 @@ This dataset has been used in [our study](https://www.openaccess.thecvf.com/cont
 
 ## Download
 
-You can access and download the dataset here: [ISIC-DICM-17K Download Link](https://api.isic-archive.com/collections/469/)
+Download **ISIC-DICM-17K** dataset: [ISIC-DICM-17K Complete Bundle](https://api.isic-archive.com/doi/isic-dicm-17k/) 
+
+You can access the dataset here: [ISIC-DICM-17K Collection](https://api.isic-archive.com/collections/469/)
 
 ## Citation
 

@@ -2,6 +2,8 @@
 
 **ISIC-DICM-17K** (**ISIC** **D**ermoscopic **I**mages and **C**linical **M**etadata **17K**) is a curated and balanced dataset designed to support research in skin lesion classification using both dermoscopic images and clinical metadata. The dataset is derived from the [International Skin Imaging Collaboration (ISIC) Archive Gallery](https://gallery.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery) for multimodal skin lesion analysis research.
 
+**Paper:** [Skin Lesion Classification Using Dermoscopic Images and Clinical Metadata: Insights from Multimodal Models](https://www.openaccess.thecvf.com/content/CVPR2025W/MULA2025/papers/Ahammed_Skin_Lesion_Classification_Using_Dermoscopic_Images_and_Clinical_Metadata_Insights_CVPRW_2025_paper.pdf)
+
 ## Dataset Overview
 - **Total Samples:** 17,060
 - **Classes:**
@@ -48,3 +50,9 @@ The ISIC-DICM-17K dataset is partly based on the [curated balanced ISIC dataset]
  url     = {https://www.sciencedirect.com/science/article/pii/S1361841521003509}
 } 
 ```
+
+# Update (2026): MONET Concept Scores
+
+We have added **MONET-based concept probability scores** for all ISIC-DICM-17K images in the [`MONET/`](./MONET/) directory to support future research. These scores represent seven semantic descriptor groups adopted from [MILK10k (Tschandl et al., 2026)](https://doi.org/10.1016/j.jid.2025.06.1594) and were generated using the [MONET framework (Kim et al., 2024)](https://doi.org/10.1038/s41591-024-02887-x).
+
+**Citation:** If you use these annotations in your research, please consider citing [ISIC-DICM-17K (Ahammed et al., 2025)](https://doi.org/10.1109/CVPRW67362.2025.00027), [MILK10k (Tschandl et al., 2026)](https://doi.org/10.1016/j.jid.2025.06.1594), and [MONET (Kim et al., 2024)](https://doi.org/10.1038/s41591-024-02887-x).
